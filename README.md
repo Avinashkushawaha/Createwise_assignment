@@ -4,7 +4,7 @@ A modern dashboard interface for managing AI-generated articles, built using **R
 
 ## 🚀 Live Demo
 
-👉 [View on Vercel](https://your-vercel-deployment-link.vercel.app)
+👉 [View on Vercel](https://gentle-khapse-c7387b.netlify.app/)
 
 ## 📸 Screenshots
 
