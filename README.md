@@ -8,7 +8,8 @@ A modern dashboard interface for managing AI-generated articles, built using **R
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](https://via.placeholder.com/1200x600.png?text=Dashboard+UI)
+![Dashboard Screenshot](/screen1.png)
+![Dashboard Screenshot](/screen2.png)
 
 ## 📦 Tech Stack
 
